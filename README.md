@@ -25,5 +25,3 @@ This project will be using
 - You want to clone this repository onto your machine. Included is a requirments.txt that will have our dependencies that you should run.
 - Using your terminal navigate to the Source_code folder, and run the following command: flask run
 
-## Website/IP
-- Access through this IP to test your own pictures: http://34.201.9.122:5000/
